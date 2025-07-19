@@ -2,14 +2,14 @@
 version = 2
 
 android {
-    namespace = "com.redowan"
+    namespace = "com.nehal"
 }
 
 cloudstream {
     // All of these properties are optional, you can safely remove them
 
     description = "ICC BDIX Provider"
-    authors = listOf("Redowan")
+    authors = listOf("nehal")
 
     /**
      * Status int as the following:
